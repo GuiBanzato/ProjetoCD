@@ -27,13 +27,13 @@ def predict_category(text, model, embedder):
     return prediction
 
 # Streamlit configuration
-st.title("ArXiv Category Prediction")
+st.title("ArXiv Predição de Categoria")
 input_text = st.text_area("Enter article summary:", "")
 
 if st.button("Predict"):
     if input_text:
         pred = predict_category(input_text, clf, embed)
-        st.write("Class Probabilities:")
+        st.write("Probabilidade de Classe:")
         
         # Assuming you have two categories: cs.AI and stat.ML
         categories = ['cs.AI', 'stat.ML']  
@@ -42,4 +42,4 @@ if st.button("Predict"):
         pred_df = pd.DataFrame(pred, columns=categories)  
         st.bar_chart(pred_df) 
     else:
-        st.warning("Please enter some text.")
+        st.warning("Escreva algo.")
