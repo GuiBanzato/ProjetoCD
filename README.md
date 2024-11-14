@@ -10,7 +10,7 @@ Nome: Guilherme Lins Banzato RA: 20.01561-5
 
 ## 📝 Documentação
 O Projeto é composto de alguns arquivos principais:
-- Notebook do Google Colab
+- Projeto_CD.ipynb (Notebook do Google Colab)
 - app.py
 - main.py
 
