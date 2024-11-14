@@ -20,7 +20,7 @@ No arquivo Main.py, encontra-se todo o código do projeto exceto a interface do 
 -adicionar video-
 
 ## 📄 Artigo
--adicionar artigo-
+Para entender melhor sobre o projeto, leia nosso [Artigo](Classificação%20de%20artigos%20científicos%20do%20site%20Arxiv.pdf)!
 
 ## ⌨️ Colab
 Acesse o nosso [Notebook](https://colab.research.google.com/drive/1_9F1zkX-7w8g-nSiS4SOFRVqVbW7dmTw?usp=sharing)!
