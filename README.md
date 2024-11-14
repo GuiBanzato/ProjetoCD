@@ -1,6 +1,6 @@
 # Classificação de artigos científicos do site Arxiv
 
-## Sobre o Projeto
+## 🚩 Sobre o Projeto
 Este projeto foi desenvolvido para a disciplina ECM514-Ciência de Dados e tem como objetivo criar um modelo de aprendizado de máquina capaz de classificar automaticamente artigos científicos do site arXiv em diferentes categorias com base em seu resumo (projeto tipo 1).
 
 ## 👥 Integrantes
