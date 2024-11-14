@@ -2,8 +2,8 @@ import arxiv
 import pandas as pd
 
 # Definindo as categorias para coleta (Exemplo: IA e aprendizado de máquina)
-categories = ["cs.AI", "stat.ML"]
-num_articles = 400  # Número de artigos por categoria
+categories = ["cs.AI", "stat.ML", "cs.LG", "cs.CR"]
+num_articles = 200  # Número de artigos por categoria
 
 # Função para coletar artigos de uma categoria
 def fetch_arxiv_data(category, num_articles):
