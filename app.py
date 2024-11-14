@@ -36,7 +36,7 @@ if st.button("Predict"):
         st.write("Probabilidade de Classe:")
         
         # Assuming you have two categories: cs.AI and stat.ML
-        categories = ['cs.AI', 'stat.ML']  
+        categories = ['cs.AI', 'stat.ML', 'cs.LG', 'cs.CR' ]  
         
         # Create a DataFrame for the bar chart
         pred_df = pd.DataFrame(pred, columns=categories)  
