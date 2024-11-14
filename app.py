@@ -30,7 +30,7 @@ def predict_category(text, model, embedder):
 st.title("ArXiv Predição de Categoria")
 input_text = st.text_area("Enter article summary:", "")
 
-if st.button("Predict"):
+if st.button("Classifique"):
     if input_text:
         pred = predict_category(input_text, clf, embed)
         st.write("Probabilidade de Classe:")
