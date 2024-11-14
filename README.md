@@ -12,4 +12,4 @@ Nome: Guilherme Lins Banzato RA: 20.01561-5
 ## 📄 Artigo
 -adicionar artigo-
 ## ⌨️ Colab
--adicionar colab-
+Acesse o nosso [Notebook](https://colab.research.google.com/drive/1_9F1zkX-7w8g-nSiS4SOFRVqVbW7dmTw?usp=sharing)!
