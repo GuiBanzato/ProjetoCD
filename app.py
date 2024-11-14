@@ -30,13 +30,13 @@ def predict_category(text, model, embedder):
 st.title("ArXiv Predição de Categoria")
 input_text = st.text_area("Enter article summary:", "")
 
-if st.button("Predict"):
+if st.button("Classifique"):
     if input_text:
         pred = predict_category(input_text, clf, embed)
         st.write("Probabilidade de Classe:")
         
         # Assuming you have two categories: cs.AI and stat.ML
-        categories = ['cs.AI', 'stat.ML']  
+        categories = ['cs.AI', 'stat.ML', 'cs.LG', 'cs.CR' ]  
         
         # Create a DataFrame for the bar chart
         pred_df = pd.DataFrame(pred, columns=categories)  
