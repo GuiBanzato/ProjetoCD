@@ -17,7 +17,7 @@ O Projeto é composto de alguns arquivos principais:
 No arquivo Main.py, encontra-se todo o código do projeto exceto a interface do usuário, ou seja, é nele que se encontra a coleta de dados, pré-processamento dos dados, treinamento dos modelos, entre outros. Este mesmo código está disponível no notebook do Colab. Já a UI criada com Streamlit está disponível no arquivo App.py, para execução local.
 
 ## 📹 Vídeo
--adicionar video-
+[Apresentação do projeto](https://youtu.be/fKmm-1ImXYE)
 
 ## 📄 Artigo
 Para entender melhor sobre o projeto, leia nosso [Artigo](Classificação%20de%20artigos%20científicos%20do%20site%20Arxiv.pdf)!
