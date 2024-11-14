@@ -10,9 +10,9 @@ Nome: Guilherme Lins Banzato RA: 20.01561-5
 
 ## 📝 Documentação
 O Projeto é composto de alguns arquivos principais:
-- Notebook do Google Colab (No notebook tem todo o código do projeto, sendo possível rodar cada um dos modelos de árvore e descobrir a acurácia de cada um!)
-- app.py (No arquivo App.py contém a interface do usuário criada a partir do Streamlit que roda localmente.)
-- main.py (Mesmo código disponível no Colab)
+- Notebook do Google Colab
+- app.py
+- main.py
 
 No arquivo Main.py, encontra-se todo o código do projeto exceto a interface do usuário, ou seja, é nele que se encontra a coleta de dados, pré-processamento dos dados, treinamento dos modelos, entre outros. Este mesmo código está disponível no notebook do Colab. Já a UI criada com Streamlit está disponível no arquivo App.py, para execução local.
 
