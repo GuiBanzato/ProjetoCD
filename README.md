@@ -14,7 +14,7 @@ O Projeto é composto de alguns arquivos principais:
 - app.py
 - main.py
 
-### Colab tem todo o código no projeto, sendo possível rodar cada um deles, até descobrir a acurácia! Main.py e App.py nós utilizamos para rodas a interface do Streamlit localmente, na qual a main.py é apenas o código original vindo do Colab e o App.py é o código para gerar a interface do Streamlit.
+Colab tem todo o código no projeto, sendo possível rodar cada um deles, até descobrir a acurácia! Main.py e App.py nós utilizamos para rodas a interface do Streamlit localmente, na qual a main.py é apenas o código original vindo do Colab e o App.py é o código para gerar a interface do Streamlit.
 
 ## 📹 Vídeo
 -adicionar video-
